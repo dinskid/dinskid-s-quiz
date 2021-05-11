@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/dinskid-s-quiz/static/css/main.08fc9b45.chunk.css",
-    "main.js": "/dinskid-s-quiz/static/js/main.ab41718f.chunk.js",
-    "main.js.map": "/dinskid-s-quiz/static/js/main.ab41718f.chunk.js.map",
+    "main.css": "/dinskid-s-quiz/static/css/main.59719c98.chunk.css",
+    "main.js": "/dinskid-s-quiz/static/js/main.e14a400e.chunk.js",
+    "main.js.map": "/dinskid-s-quiz/static/js/main.e14a400e.chunk.js.map",
     "runtime-main.js": "/dinskid-s-quiz/static/js/runtime-main.3464789d.js",
     "runtime-main.js.map": "/dinskid-s-quiz/static/js/runtime-main.3464789d.js.map",
     "static/js/2.1d999e4c.chunk.js": "/dinskid-s-quiz/static/js/2.1d999e4c.chunk.js",
     "static/js/2.1d999e4c.chunk.js.map": "/dinskid-s-quiz/static/js/2.1d999e4c.chunk.js.map",
     "index.html": "/dinskid-s-quiz/index.html",
-    "static/css/main.08fc9b45.chunk.css.map": "/dinskid-s-quiz/static/css/main.08fc9b45.chunk.css.map",
+    "static/css/main.59719c98.chunk.css.map": "/dinskid-s-quiz/static/css/main.59719c98.chunk.css.map",
     "static/js/2.1d999e4c.chunk.js.LICENSE.txt": "/dinskid-s-quiz/static/js/2.1d999e4c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3464789d.js",
     "static/js/2.1d999e4c.chunk.js",
-    "static/css/main.08fc9b45.chunk.css",
-    "static/js/main.ab41718f.chunk.js"
+    "static/css/main.59719c98.chunk.css",
+    "static/js/main.e14a400e.chunk.js"
   ]
 }
