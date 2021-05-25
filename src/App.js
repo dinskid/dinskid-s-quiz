@@ -31,9 +31,9 @@ function App() {
       {
         appState === 'READY' &&
         <div className="start-quiz">
-          <h1 style={{ fontStyle: 'italic', textAlign: 'center' }}>dinskid's arithmetic quiz</h1>
+          <h1 style={{ fontStyle: 'italic', textAlign: 'center', fontSize: 'xx-large' }}>dinskid's arithmetic quiz</h1>
           <div className="rules">
-            <h7 style={{ fontStyle: 'bold', fontSize: '1rem' }}>How it works?</h7>
+            <div style={{ fontStyle: 'bold', fontSize: '1.3rem' }}>How it works?</div>
             <ol>
               <li>
                 You will answer 5 simple arithmetic multiple choice questions
